@@ -3,7 +3,7 @@
 # Interactive Age Calculator
 
 ## Overview
-The Interactive Age Calculator is a simple web application developed using HTML, CSS, and JavaScript. It allows users to calculate their age by providing their birthdate. This calculator provides the user's age in years, months, and days.
+The Interactive Age Calculator is a simple web application developed using HTML, CSS, and JavaScript. It allows users to calculate their age by providing their birthdate. This calculator provides the user's age in years, months, and days. 
 
 ## Features
 - **Age Calculation:** Users can input their birthdate and calculate their age instantly.
