@@ -1,4 +1,4 @@
-![day6](https://github.com/the-PrafulDesai/AgeCalculator/assets/108045971/bd4cf311-6ec8-4b3b-b9e9-6f3ada8a65ab) 
+![day6](https://github.com/the-PrafulDesai/AgeCalculator/assets/108045971/bd4cf311-6ec8-4b3b-b9e9-6f3ada8a65ab)
 
 # Interactive Age Calculator
 
